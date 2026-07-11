@@ -5,6 +5,7 @@ Repo to track my OSS contributions
 
 - <a href="nlohmann-json.md">nlohmann/json - C++ JSON Library</a>
 - <a href="zeek.md">Zeek Network Security Monitor</a>
+- <a href="microsoft-terminal.md">Microsoft Terminal</a>
 
 - GSSoC:
   * <a href="GSSoC-2026/WinHome.md">WinHome</a>
